@@ -1,0 +1,6 @@
+pygetwindow
+pyautogui
+pillow
+keyboard
+psutil
+pygame
