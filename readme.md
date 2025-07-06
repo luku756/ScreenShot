@@ -25,7 +25,7 @@
 스크린샷 파일명은 다음 형식으로 자동 생성됩니다:
 
 
-`프로세스이름_YYYYMMDD_HHMMSS_mmm.png`
+`프로세스이름\프로세스이름_YYYYMMDD_HHMMSS_mmm.png`
 
 
 - **프로세스이름** : 활성 윈도우를 실행 중인 프로세스 이름 (예: `gameapp`)  
